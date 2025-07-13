@@ -1,0 +1,33 @@
+{
+  "monthlySales": {
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "data": [45000, 52000, 49000, 60000, 55000, 65000, 70000, 68000, 72000, 75000, 80000, 85000]
+  },
+  "productSales": {
+    "labels": ["Laptop", "Smartphone", "Tablet", "Accessories", "Monitors"],
+    "data": [350, 420, 280, 690, 240]
+  },
+  "salesByRegion": {
+    "labels": ["North", "South", "East", "West", "Central"],
+    "data": [125000, 95000, 85000, 115000, 75000]
+  },
+  "yearlyComparison": {
+    "labels": ["2023", "2024", "2025"],
+    "data": {
+      "revenue": [580000, 650000, 776000],
+      "units": [2800, 3200, 3800]
+    }
+  },
+  "monthlyRevenue": {
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "data": [12000, 15000, 13000, 17000, 16000, 18000, 21000, 20000, 22000, 24000, 26000, 28000]
+  },
+  "revenueSources": {
+    "labels": ["Produk", "Jasa", "Afiliasi", "Iklan", "Lainnya"],
+    "data": [55000, 22000, 12000, 8000, 4000]
+  },
+  "revenueTrend": {
+    "labels": ["2021", "2022", "2023", "2024", "2025"],
+    "data": [320000, 410000, 580000, 650000, 776000]
+  }
+}
